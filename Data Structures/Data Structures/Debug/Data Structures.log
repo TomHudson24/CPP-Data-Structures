@@ -1,0 +1,17 @@
+﻿  Main.cpp
+C:\Users\tomhu\source\repos\Data Structures\Data Structures\Main.cpp(66,42): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\tomhu\source\repos\Data Structures\Data Structures\Main.cpp(254): message : see reference to function template instantiation 'T &ResizableArray<T>::EmplaceBack<int>(int &&)' being compiled
+          with
+          [
+              T=Vec3
+          ]
+C:\Users\tomhu\source\repos\Data Structures\Data Structures\Main.cpp(254): message : see reference to function template instantiation 'T &ResizableArray<T>::EmplaceBack<int>(int &&)' being compiled
+          with
+          [
+              T=Vec3
+          ]
+  Data Structures.vcxproj -> C:\Users\tomhu\source\repos\Data Structures\Debug\Data Structures.exe
